@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iShivam2012
 - 👀 I’m interested in Web Development and Entrepreneurship.
-- 🌱 I’m currently learning Typescript and UnifiedStore.
 - 💞️ I’m looking to collaborate on few Projects with my team.
 - 📫 How to reach me on twitter... Just Follow @iShivamG.
 
